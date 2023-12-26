@@ -82,3 +82,5 @@ Contribute to the knowledge-sharing repository by sharing your own experiences, 
 **I will discuss and share examples of Cypress tests to align with the above contents. These examples will cover both UI and API testing scenarios. By diving into practical examples, we can reinforce the concepts discussed earlier and demonstrate how to apply them in real-world testing scenarios. Feel free to explore the test cases, understand their structure, and adapt them to your specific application needs. Let's make the learning experience more hands-on and interactive!**
 
 Happy testing with Cypress! 🚀
+
+
