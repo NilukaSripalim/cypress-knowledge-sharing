@@ -1,0 +1,27 @@
+{
+  "name": "cypress-knowledge-sharing",
+  "version": "1.0.0",
+  "description": "Welcome to the knowledge-sharing repository dedicated to Cypress Test Automation! This repository aims to provide insights, tips, and examples based on real-world experiences with Cypress, covering both UI and API testing. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilukaSripalim/cypress-knowledge-sharing.git"
+  },
+  "keywords": [
+    "Cypress",
+    "API",
+    "UI"
+  ],
+  "author": "NilukaSripalim ( Niluka Sripali Monnankulama)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NilukaSripalim/cypress-knowledge-sharing/issues"
+  },
+  "homepage": "https://github.com/NilukaSripalim/cypress-knowledge-sharing#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
