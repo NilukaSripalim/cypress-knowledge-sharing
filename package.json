@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/NilukaSripalim/cypress-knowledge-sharing#readme",
   "devDependencies": {
-    "cypress": "^13.6.1"
+    "cypress": "^14.0.2"
   }
 }
